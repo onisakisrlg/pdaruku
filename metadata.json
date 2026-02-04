@@ -1,0 +1,5 @@
+{
+  "name": "手持枪入库",
+  "description": "A simulation of a rugged logistics handheld scanner with a functional internal login and scanning interface.",
+  "requestFramePermissions": []
+}
